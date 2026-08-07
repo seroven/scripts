@@ -2,6 +2,7 @@ import json
 import re
 from pathlib import Path
 
+import openpyxl
 import pandas as pd
 
 BASE_DIR = Path(__file__).resolve().parent
@@ -20,8 +21,18 @@ def nombre_archivo_seguro(nombre_hoja: str) -> str:
     return f'{nombre}.json'
 
 
-# sheet_name=None lee todas las hojas: {nombre_hoja: DataFrame}
-hojas = pd.read_excel(ruta_excel, sheet_name=None, engine='openpyxl')
+wb = openpyxl.load_workbook(ruta_excel, read_only=True)
+hojas_visibles = [ws.title for ws in wb.worksheets if ws.sheet_state == 'visible']
+wb.close()
+
+hojas = pd.read_excel(
+    ruta_excel,
+    sheet_name=hojas_visibles or None,
+    engine='openpyxl',
+)
+# Si solo hay una hoja, pandas devuelve DataFrame; unificar a dict
+if isinstance(hojas, pd.DataFrame):
+    hojas = {hojas_visibles[0]: hojas}
 
 for nombre_hoja, df in hojas.items():
     data = json.loads(df.to_json(orient='records', force_ascii=False, date_format='iso'))
