@@ -3,7 +3,6 @@ import re
 from pathlib import Path
 
 import openpyxl
-import pandas as pd
 
 BASE_DIR = Path(__file__).resolve().parent
 INPUT_DIR = BASE_DIR / 'input'
@@ -21,26 +20,113 @@ def nombre_archivo_seguro(nombre_hoja: str) -> str:
     return f'{nombre}.json'
 
 
-wb = openpyxl.load_workbook(ruta_excel, read_only=True)
-hojas_visibles = [ws.title for ws in wb.worksheets if ws.sheet_state == 'visible']
-wb.close()
+def celda_vacia(valor) -> bool:
+    return valor is None or (isinstance(valor, str) and valor.strip() == '')
 
-hojas = pd.read_excel(
-    ruta_excel,
-    sheet_name=hojas_visibles or None,
-    engine='openpyxl',
-)
-# Si solo hay una hoja, pandas devuelve DataFrame; unificar a dict
-if isinstance(hojas, pd.DataFrame):
-    hojas = {hojas_visibles[0]: hojas}
 
-for nombre_hoja, df in hojas.items():
-    data = json.loads(df.to_json(orient='records', force_ascii=False, date_format='iso'))
-    ruta_json = OUTPUT_DIR / nombre_archivo_seguro(nombre_hoja)
+def fila_vacia(fila) -> bool:
+    return all(celda_vacia(v) for v in fila)
+
+
+def expandir_celdas_combinadas(ws) -> None:
+    """Copia el valor de cada celda combinada a todas las celdas del rango."""
+    for merge in list(ws.merged_cells.ranges):
+        valor = ws.cell(merge.min_row, merge.min_col).value
+        ws.unmerge_cells(str(merge))
+        for row in range(merge.min_row, merge.max_row + 1):
+            for col in range(merge.min_col, merge.max_col + 1):
+                ws.cell(row, col).value = valor
+
+
+def normalizar_cabeceras(cabeceras: list) -> list[str]:
+    """Nombra cabeceras vacías y evita duplicados (Grupo, Grupo.1, ...)."""
+    vistas: dict[str, int] = {}
+    resultado = []
+    for i, raw in enumerate(cabeceras):
+        nombre = str(raw).strip() if not celda_vacia(raw) else f'Unnamed: {i}'
+        if nombre in vistas:
+            vistas[nombre] += 1
+            nombre = f'{nombre}.{vistas[nombre]}'
+        else:
+            vistas[nombre] = 0
+        resultado.append(nombre)
+    return resultado
+
+
+def dividir_en_bloques(filas: list[list]) -> list[list[list]]:
+    """Separa la hoja en bloques usando filas completamente vacías."""
+    bloques = []
+    actual = []
+    for fila in filas:
+        if fila_vacia(fila):
+            if actual:
+                bloques.append(actual)
+                actual = []
+            continue
+        actual.append(fila)
+    if actual:
+        bloques.append(actual)
+    return bloques
+
+
+def puntuar_bloque(bloque: list[list]) -> tuple:
+    """Prioriza el bloque con más cabeceras útiles y más datos."""
+    if len(bloque) < 2:
+        return (0, 0, 0)
+    cabeceras = bloque[0]
+    cabeceras_llenas = sum(1 for c in cabeceras if not celda_vacia(c))
+    celdas_datos = sum(1 for fila in bloque[1:] for c in fila if not celda_vacia(c))
+    return (cabeceras_llenas, celdas_datos, len(bloque))
+
+
+def bloque_a_registros(bloque: list[list]) -> list[dict]:
+    # Quitar columnas totalmente vacías (cabecera + datos)
+    n_cols = max(len(f) for f in bloque)
+    filas = [f + [None] * (n_cols - len(f)) for f in bloque]
+    cols_utiles = [
+        i for i in range(n_cols)
+        if any(not celda_vacia(fila[i]) for fila in filas)
+    ]
+    filas = [[fila[i] for i in cols_utiles] for fila in filas]
+
+    cabeceras = normalizar_cabeceras(filas[0])
+    registros = []
+    for fila in filas[1:]:
+        if fila_vacia(fila):
+            continue
+        registros.append({cabeceras[i]: fila[i] for i in range(len(cabeceras))})
+    return registros
+
+
+def hoja_a_registros(ws) -> list[dict]:
+    expandir_celdas_combinadas(ws)
+
+    filas = [list(row) for row in ws.iter_rows(values_only=True)]
+    # Recortar filas vacías al final
+    while filas and fila_vacia(filas[-1]):
+        filas.pop()
+    if not filas:
+        return []
+
+    bloques = dividir_en_bloques(filas)
+    if not bloques:
+        return []
+
+    bloque = max(bloques, key=puntuar_bloque)
+    return bloque_a_registros(bloque)
+
+
+wb = openpyxl.load_workbook(ruta_excel)
+hojas_visibles = [ws for ws in wb.worksheets if ws.sheet_state == 'visible']
+
+for ws in hojas_visibles:
+    data = hoja_a_registros(ws)
+    ruta_json = OUTPUT_DIR / nombre_archivo_seguro(ws.title)
 
     with open(ruta_json, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
-    print(f'Archivo JSON generado: {ruta_json}')
+    print(f'Archivo JSON generado: {ruta_json} ({len(data)} registros)')
 
-print(f'Total de hojas convertidas: {len(hojas)}')
+wb.close()
+print(f'Total de hojas convertidas: {len(hojas_visibles)}')
