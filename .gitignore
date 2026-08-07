@@ -1,2 +1,2 @@
-./json_transform/input/*
-./json_transform/output/*
+json_transform/input/*
+json_transform/output/*
