@@ -1,0 +1,1477 @@
+[
+    {
+        "Grupo": "Legal",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "CONSTITUCIÓN DE SOCIEDADES"
+    },
+    {
+        "Grupo": "Legal",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "CONSULTAS LEGALES"
+    },
+    {
+        "Grupo": "Legal",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "ELABORACIÓN DE CONSULTAS Y OBSERVACIONES DE BASES DE LICITACIONES PÚBLICAS Y PRIVADAS"
+    },
+    {
+        "Grupo": "Legal",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "ELABORAR Y/O REVISAR CONTRATOS DE CONSORCIOS Y/U OTRAS MODALIDADES ASOCIATIVAS"
+    },
+    {
+        "Grupo": "Legal",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "ELABORAR Y/O REVISAR MOUS"
+    },
+    {
+        "Grupo": "Legal",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "ELABORAR Y/O REVISAR NDAS PARA COMPARTIR Y/O RECIBIR INFORMACIÓN"
+    },
+    {
+        "Grupo": "Legal",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "ESTRUCTURACIÓN DE OPERACIONES SOCIETARIAS Y/O MODIFICACIÓN DE ESTATUTOS Y/O OTROS ACUERDOS GOBIERNO CORPORATIVO"
+    },
+    {
+        "Grupo": "Legal",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "GESTIÓN DE DEMANDAS, DENUNCIAS, QUERELLAS Y/O PROCESOS JUDICIALES"
+    },
+    {
+        "Grupo": "Legal",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "GESTIÓN DE RECLAMOS LABORALES (INSPECCIÓN DEL TRABAJO)"
+    },
+    {
+        "Grupo": "Legal",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "LIQUIDACIÓN DE SOCIEDADES, CONSORCIOS Y/O CONTRATOS ASOCIATIVOS"
+    },
+    {
+        "Grupo": "Legal",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "OTORGAMIENTO DE PODERES"
+    },
+    {
+        "Grupo": "Legal",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "REVISIÓN DE CONTRATO / ADENDA PARA SUBCONTRATISTAS"
+    },
+    {
+        "Grupo": "Legal",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "REVISIÓN DE CONTRATO DE CLIENTE"
+    },
+    {
+        "Grupo": "Legal",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "REVISIÓN DE ESTUDIO TÍTULO"
+    },
+    {
+        "Grupo": "Legal",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "REVISIÓN DE CONTRATOS BANCARIOS Y FINANCIEROS"
+    },
+    {
+        "Grupo": "Legal",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "REVISIÓN Y VALIDACIÓN LEGAL DE CARTAS"
+    },
+    {
+        "Grupo": "Legal",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "SOLICITUD DE COMUNICACIONES POR DESVIACIONES AL CONTRATO CON EL CLIENTE"
+    },
+    {
+        "Grupo": "Legal",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "SOLICITUD DE COMUNICACIONES POR DESVIACIONES AL CONTRATO CON EL SUBCONTRATISTA"
+    },
+    {
+        "Grupo": "Legal",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "TRAMITES DE TASAS"
+    },
+    {
+        "Grupo": "Legal",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "TRAMITES NOTARIALES"
+    },
+    {
+        "Grupo": "Legal",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "TRANSFERENCIA DE INMUEBLES, VEHÍCULOS Y/O CUALQUIER OTRO BIEN"
+    },
+    {
+        "Grupo": "Legal",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "TRANSFERENCIA DE ACCIONES"
+    },
+    {
+        "Grupo": "Seguros",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "CAPACITACIONES"
+    },
+    {
+        "Grupo": "Seguros",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "ENVÍO DE ACTIVOS PARA ASEGURAR"
+    },
+    {
+        "Grupo": "Seguros",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "ESTADO DE SINIESTRO"
+    },
+    {
+        "Grupo": "Seguros",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "INGRESO DE SINIESTRO"
+    },
+    {
+        "Grupo": "Seguros",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "INGRESOS A PÓLIZA MULTIRIESGO"
+    },
+    {
+        "Grupo": "Seguros",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "REVISIÓN DE BASES ADMINISTRATIVAS Y /O CONTRATOS"
+    },
+    {
+        "Grupo": "Seguros",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "SOLICITUD COTIZACIÓN DE PÓLIZAS"
+    },
+    {
+        "Grupo": "Seguros",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "SOLICITUD EMISIÓN DE PÓLIZAS"
+    },
+    {
+        "Grupo": "Seguros",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "SOLICITUD DE CERTIFICADOS DE COBERTURAS/COBERTURA PROVISIONAL/PAGOS/VIGENCIAS"
+    },
+    {
+        "Grupo": "Seguros",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "SOLICITUD DE COPIAS PÓLIZAS"
+    },
+    {
+        "Grupo": "Seguros",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "SOLICITUD DE ENDOSO DE PÓLIZA"
+    },
+    {
+        "Grupo": "Seguros",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "SOLICITUD DE PAGO DE PÓLIZAS"
+    },
+    {
+        "Grupo": "Seguros",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "SOLICITUD DE REENVIO DE FACTURAS DE SEGUROS"
+    },
+    {
+        "Grupo": "Seguros",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "SOLICITUD INFORMACIÓN PARA HOMOLOGACIONES"
+    },
+    {
+        "Grupo": "Finanzas",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "CARTA DE CRÉDITO PROVEEDOR"
+    },
+    {
+        "Grupo": "Finanzas",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "CARTA DE LÍNEA DE CRÉDITO"
+    },
+    {
+        "Grupo": "Finanzas",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "CARTAS DE CIRCULACION"
+    },
+    {
+        "Grupo": "Finanzas",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "CERTIFICADOS BANCARIOS"
+    },
+    {
+        "Grupo": "Finanzas",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "CERTIFICADOS DE CLASIFICACIÓN DE RIESGO"
+    },
+    {
+        "Grupo": "Finanzas",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "CONSTANCIA DE NO ADEUDO BANCARIA"
+    },
+    {
+        "Grupo": "Finanzas",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "INFORME DE RATIOS FINANCIEROS"
+    },
+    {
+        "Grupo": "Finanzas",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "SIMULACIÓN DE FINANCIAMIENTO"
+    },
+    {
+        "Grupo": "Finanzas",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "SOLICITUD DE LEASING/LEASEBACK"
+    },
+    {
+        "Grupo": "Finanzas",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "SOLICITUD DE FACTORING"
+    },
+    {
+        "Grupo": "Finanzas",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "SOLICITUD DE LETRAS"
+    },
+    {
+        "Grupo": "Almacén",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Capacitación ERP / SAP BO para Staff de Obras"
+    },
+    {
+        "Grupo": "Almacén",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Capacitación en procedimientos, flujos y sistema de gestión del área"
+    },
+    {
+        "Grupo": "Almacén",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "ERP Gestión de maestro de materiales"
+    },
+    {
+        "Grupo": "Almacén",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "ERP Parametrización y/o configuración"
+    },
+    {
+        "Grupo": "Almacén",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud para almacenar documentos al termino de obra"
+    },
+    {
+        "Grupo": "Almacén",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud para desmovilización de existencias al término de obra"
+    },
+    {
+        "Grupo": "Almacén",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud para transferencia de existencias entre obras"
+    },
+    {
+        "Grupo": "Almacén",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud para validación de checklist"
+    },
+    {
+        "Grupo": "Almacén",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud para venta de existencias entre empresas"
+    },
+    {
+        "Grupo": "Abastecimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Activar socios de negocios-ERP"
+    },
+    {
+        "Grupo": "Abastecimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Actualización cuentas Proveedor/SC-ERP"
+    },
+    {
+        "Grupo": "Abastecimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Capacitación de procedimiento y sistema de gestión compras y SC"
+    },
+    {
+        "Grupo": "Abastecimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Cotización para Estudio de Propuestas"
+    },
+    {
+        "Grupo": "Abastecimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Creación de usuarios portal de proveedores"
+    },
+    {
+        "Grupo": "Abastecimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Servicio de homologación de Proveedores / SC"
+    },
+    {
+        "Grupo": "Abastecimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de acceso y llave para almacén de documentos"
+    },
+    {
+        "Grupo": "Atencion a proveedores",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Actualización de Cuentas De Depósito"
+    },
+    {
+        "Grupo": "Atencion a proveedores",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Conciliación de Saldo Pendiente"
+    },
+    {
+        "Grupo": "Atencion a proveedores",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Envio de Comprobante de Facturas Pagadas"
+    },
+    {
+        "Grupo": "Atencion a proveedores",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Estado de Fondo de Garantía (Documentos)"
+    },
+    {
+        "Grupo": "Atencion a proveedores",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Estado de PXP"
+    },
+    {
+        "Grupo": "Atencion a proveedores",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Estado de Pagos Extraordinario"
+    },
+    {
+        "Grupo": "Atencion a proveedores",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Gestión de Deudas Notificadas a Central de Riesgos"
+    },
+    {
+        "Grupo": "Atencion a proveedores",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Recepción y Registro de Factura y NC/ND"
+    },
+    {
+        "Grupo": "Atencion a proveedores",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Registro de Factura de Anticipo"
+    },
+    {
+        "Grupo": "Atencion a proveedores",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud al proveedores de Carta de no Adeudo"
+    },
+    {
+        "Grupo": "Atencion a proveedores",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de Comprobante de Retención"
+    },
+    {
+        "Grupo": "Atencion a proveedores",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de Conforming"
+    },
+    {
+        "Grupo": "Atencion a proveedores",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de Factoring"
+    },
+    {
+        "Grupo": "Atencion a proveedores",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de Pago Extraordinario"
+    },
+    {
+        "Grupo": "Atencion a proveedores",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud del Pago de Fondo de Garantía"
+    },
+    {
+        "Grupo": "Atencion a proveedores",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Validación de OC"
+    },
+    {
+        "Grupo": "Atencion a proveedores",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Validación de Valorización para SC"
+    },
+    {
+        "Grupo": "Administración- Servicios Generales",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Administración y asignación de espacios de trabajo, solicitudes nuevas de remodelación y nuevos puestos de trabajo"
+    },
+    {
+        "Grupo": "Administración- Servicios Generales",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Asignación de Estacionamientos de visita y/o temporal."
+    },
+    {
+        "Grupo": "Administración- Servicios Generales",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Compra de pasajes y/o reserva de hoteles"
+    },
+    {
+        "Grupo": "Administración- Servicios Generales",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Coordinación de servicio de limpieza"
+    },
+    {
+        "Grupo": "Administración- Servicios Generales",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Envío de sobres y/o paquetes a Provincia"
+    },
+    {
+        "Grupo": "Administración- Servicios Generales",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Gestión de autorización de ingreso a oficina Central (Proveedores / campañas)"
+    },
+    {
+        "Grupo": "Administración- Servicios Generales",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Gestión de reparación y mantenimiento de mobiliario, aire acondicionado, instalaciones eléctricas."
+    },
+    {
+        "Grupo": "Administración- Servicios Generales",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Pedido de sellos para personal de oficina central"
+    },
+    {
+        "Grupo": "Administración- Servicios Generales",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Requerimiento de firmas de gerencia para documentación"
+    },
+    {
+        "Grupo": "Administración- Servicios Generales",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Reserva de Estacionamiento"
+    },
+    {
+        "Grupo": "Administración- Servicios Generales",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Reserva de Salas de reuniones / SUM Piso 21"
+    },
+    {
+        "Grupo": "Administración- Servicios Generales",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Servicio de catering"
+    },
+    {
+        "Grupo": "Administración- Servicios Generales",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de útiles de oficina"
+    },
+    {
+        "Grupo": "Administración- Servicios Generales",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Traslado o recojo de documentos"
+    },
+    {
+        "Grupo": "Contabilidad",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Actualizar destino SAP"
+    },
+    {
+        "Grupo": "Contabilidad",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Actualizar tipo de cambio SAP"
+    },
+    {
+        "Grupo": "Contabilidad",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Anulación provisión de servicios"
+    },
+    {
+        "Grupo": "Contabilidad",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Confirmación y detalle de registro de importaciones"
+    },
+    {
+        "Grupo": "Contabilidad",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Declaraciones juradas de impuestos"
+    },
+    {
+        "Grupo": "Contabilidad",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "ERP Gestión Data Maestra Contabilidad"
+    },
+    {
+        "Grupo": "Contabilidad",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Estados financieros mensuales - anuales y/o auditados"
+    },
+    {
+        "Grupo": "Contabilidad",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Información tributaria distinta a las declaraciones juradas"
+    },
+    {
+        "Grupo": "Contabilidad",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Movimiento de activo fijo y/o Arrendamiento (Leasing)"
+    },
+    {
+        "Grupo": "Contabilidad",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Movimiento de libro de obra (mayor contable)"
+    },
+    {
+        "Grupo": "Contabilidad",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Reclasificaciones contables"
+    },
+    {
+        "Grupo": "Contabilidad",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Registro de comprobantes (facturas) de proveedores"
+    },
+    {
+        "Grupo": "Contabilidad",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Requerimiento de información específica para propuestas"
+    },
+    {
+        "Grupo": "Contabilidad",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de Guía de Remisión"
+    },
+    {
+        "Grupo": "Control Pago / Fondo por Rendir / Mesa Parte",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Análisis de cuentas contables"
+    },
+    {
+        "Grupo": "Control Pago / Fondo por Rendir / Mesa Parte",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Creación de usuarios para rendición de gastos - Rindegastos"
+    },
+    {
+        "Grupo": "Control Pago / Fondo por Rendir / Mesa Parte",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Creación de usuarios para solicitud de fondos"
+    },
+    {
+        "Grupo": "Control Pago / Fondo por Rendir / Mesa Parte",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Estado de pago de proveedores"
+    },
+    {
+        "Grupo": "Control Pago / Fondo por Rendir / Mesa Parte",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Registro de Facturas"
+    },
+    {
+        "Grupo": "Control Pago / Fondo por Rendir / Mesa Parte",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Tratamiento de pago no realizados a SC/Proveedores"
+    },
+    {
+        "Grupo": "GDP - Atracción del Talento y DO",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de capacitación"
+    },
+    {
+        "Grupo": "GDP - Atracción del Talento y DO",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de evaluación interna para promoción"
+    },
+    {
+        "Grupo": "GDP - Atracción del Talento y DO",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de profesionales para licitaciones"
+    },
+    {
+        "Grupo": "GDP - Atracción del Talento y DO",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de soporte en evaluación de desempeño"
+    },
+    {
+        "Grupo": "GDP - Atracción del Talento y DO",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud o reposicion de fotocheck"
+    },
+    {
+        "Grupo": "GDP - Calidad de vida",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Información de Seguro Oncológico"
+    },
+    {
+        "Grupo": "GDP - Calidad de vida",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Información relacionada a ESSALUD"
+    },
+    {
+        "Grupo": "GDP - Calidad de vida",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Información sobre EPS"
+    },
+    {
+        "Grupo": "GDP - Calidad de vida",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Información sobre Lactancia - ESSALUD"
+    },
+    {
+        "Grupo": "GDP - Calidad de vida",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Información sobre seguro FOLA (Practicante)"
+    },
+    {
+        "Grupo": "GDP - Calidad de vida",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de asignación familiar"
+    },
+    {
+        "Grupo": "GDP - Calidad de vida",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de licencias con goce (maternidad, paternidad y defunción)"
+    },
+    {
+        "Grupo": "GDP - Calidad de vida",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de pólizas SCTR"
+    },
+    {
+        "Grupo": "GDP - Remuneraciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Accesos a SMART Boleta"
+    },
+    {
+        "Grupo": "GDP - Remuneraciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Modificación de cuenta CTS o traslado de CTS"
+    },
+    {
+        "Grupo": "GDP - Remuneraciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Modificación de cuenta sueldo"
+    },
+    {
+        "Grupo": "GDP - Remuneraciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Pago Recibo por Honorarios"
+    },
+    {
+        "Grupo": "GDP - Remuneraciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de Constancia de trabajo"
+    },
+    {
+        "Grupo": "GDP - Remuneraciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de Información del personal a cargo"
+    },
+    {
+        "Grupo": "GDP - Remuneraciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de formulario 1492 (salida del país - extranjeros)"
+    },
+    {
+        "Grupo": "GDP - Remuneraciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de reporte costo Empresa"
+    },
+    {
+        "Grupo": "GDP - Remuneraciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de récord vacacional"
+    },
+    {
+        "Grupo": "GDP - Remuneraciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de sustentos laborales para Valorización"
+    },
+    {
+        "Grupo": "GDP - Talento y Cultura",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Estructuras salariales"
+    },
+    {
+        "Grupo": "GDP - Talento y Cultura",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Modificación de organigrama"
+    },
+    {
+        "Grupo": "GDP - Talento y Cultura",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Propuesto de incremento"
+    },
+    {
+        "Grupo": "GDP - Talento y Cultura",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de Actualización de Descriptivos de puesto"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Acceso Panel Plataforma Bi (Biwiser)"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Acceso a Tabla DW"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Ajuste en Validaciones (Transactions) SAP"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "App aprobaciones"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "CRM - Sinergia"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Carta Fianza Cliente"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Carta Fianza Proveedor"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Checklist Almacén"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Checklist Corporativo"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Creacion de aplicativo"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Creación (Transactions) SAP"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Creación / Ajuste Tabla DW"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Creación de usuario plataforma BI (Biwiser)"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Error en validación SAP"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Firmas Electrónicas"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Flesan Job"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "GHIF"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Generador de Comunicados"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Generador de Firmas Correos Electronicos"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Intranet OYM"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Intranet Palmas"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Lentitud en respuesta DW"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Matriz de Riesgo sgpd"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "No se visualizan tablas DW"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Nuevo Desarrollo"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Portal GGO"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Portal Indicadores SST"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Portal Proveedores"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Portal SSOMA"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Portal Solicitud de Fondos"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Reporte de Siniestros"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Reporte en SAP (Query Manager / Crystal Report)"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Reportes Lentitud en respuesta"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Reportes No se visualiza información"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Reportes externos (Excel)"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "SIP - Sistema de Ingreso de Personal"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Shopify"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Solicitud Ingreso Personal Obrero SIPO"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "WhatsApp Corporativo"
+    },
+    {
+        "Grupo": "CIA - Procesos / IA",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Creación / modificación de Indicadores de Control"
+    },
+    {
+        "Grupo": "CIA - Procesos / IA",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Creación / modificación de instructivos"
+    },
+    {
+        "Grupo": "CIA - Procesos / IA",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Creación / modificación de procedimiento"
+    },
+    {
+        "Grupo": "CIA - Procesos / IA",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "ERP Procesos y Funcionalidades"
+    },
+    {
+        "Grupo": "CIA - Procesos / IA",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Gestión PUC"
+    },
+    {
+        "Grupo": "CIA - Procesos / IA",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Levantamiento de Oportunidades de mejora"
+    },
+    {
+        "Grupo": "CIA - Procesos / IA",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Webdox"
+    },
+    {
+        "Grupo": "Impuestos",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Aprobación de Emisión de Notas de crédito"
+    },
+    {
+        "Grupo": "Impuestos",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Consultas de Detracciones - Tasas y/o pagos en exceso"
+    },
+    {
+        "Grupo": "Impuestos",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Declaraciones Juradas Mensuales, Anuales y pagos de impuestos"
+    },
+    {
+        "Grupo": "Impuestos",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Detracciones NPD"
+    },
+    {
+        "Grupo": "Impuestos",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Estudio Precio transferencia"
+    },
+    {
+        "Grupo": "Impuestos",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Ficha Ruc"
+    },
+    {
+        "Grupo": "Impuestos",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Grandes Compradores"
+    },
+    {
+        "Grupo": "Impuestos",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Información tributaria distinta a las declaraciones juradas"
+    },
+    {
+        "Grupo": "Impuestos",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Liberación de Fondos de Detracciones"
+    },
+    {
+        "Grupo": "Impuestos",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Otras consultas y/o solicitudes tributarias"
+    },
+    {
+        "Grupo": "Impuestos",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Reporte Tributario por Terceros"
+    },
+    {
+        "Grupo": "Impuestos",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Tramites en SUNAT - Actualización de Ficha RUC"
+    },
+    {
+        "Grupo": "Soporte e Infraestructura",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Antivirus"
+    },
+    {
+        "Grupo": "Soporte e Infraestructura",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Base de Datos"
+    },
+    {
+        "Grupo": "Soporte e Infraestructura",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Carpetas Compartidas"
+    },
+    {
+        "Grupo": "Soporte e Infraestructura",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Computador"
+    },
+    {
+        "Grupo": "Soporte e Infraestructura",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Control de Acceso"
+    },
+    {
+        "Grupo": "Soporte e Infraestructura",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Correo Electrónico"
+    },
+    {
+        "Grupo": "Soporte e Infraestructura",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Cámaras de videovigilancia"
+    },
+    {
+        "Grupo": "Soporte e Infraestructura",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "ERP (SAP/EJB/Concar)"
+    },
+    {
+        "Grupo": "Soporte e Infraestructura",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Equipos de Comunicaciones / Internet"
+    },
+    {
+        "Grupo": "Soporte e Infraestructura",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Garantía"
+    },
+    {
+        "Grupo": "Soporte e Infraestructura",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Impresora/Ticketera"
+    },
+    {
+        "Grupo": "Soporte e Infraestructura",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Nueva Obra"
+    },
+    {
+        "Grupo": "Soporte e Infraestructura",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Nuevo Personal"
+    },
+    {
+        "Grupo": "Soporte e Infraestructura",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Programas de Escritorio"
+    },
+    {
+        "Grupo": "Soporte e Infraestructura",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Scanner"
+    },
+    {
+        "Grupo": "Soporte e Infraestructura",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Sistemas Operativos"
+    },
+    {
+        "Grupo": "Soporte e Infraestructura",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Telefonia"
+    },
+    {
+        "Grupo": "Soporte e Infraestructura",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "Telefonia Fija"
+    },
+    {
+        "Grupo": "Soporte e Infraestructura",
+        "Tipo de ticket": "Incidencia / Requerimiento",
+        "Servicio": "VPNClient / IPSec"
+    },
+    {
+        "Grupo": "Marketing y Comunicaciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Actualización Portal Licitaciones"
+    },
+    {
+        "Grupo": "Marketing y Comunicaciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Actualización web"
+    },
+    {
+        "Grupo": "Marketing y Comunicaciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Afiche/Letrero/Señaletica/Logo/Maquinaria"
+    },
+    {
+        "Grupo": "Marketing y Comunicaciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Artículo en Medios/Blog Web/Comunicado Externo"
+    },
+    {
+        "Grupo": "Marketing y Comunicaciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Aviso Publicitario"
+    },
+    {
+        "Grupo": "Marketing y Comunicaciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Boletín Informativo"
+    },
+    {
+        "Grupo": "Marketing y Comunicaciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Brochure/Catálogo/Manual"
+    },
+    {
+        "Grupo": "Marketing y Comunicaciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Campaña Comunicacional"
+    },
+    {
+        "Grupo": "Marketing y Comunicaciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Comunicación Externa"
+    },
+    {
+        "Grupo": "Marketing y Comunicaciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Comunicados Interno"
+    },
+    {
+        "Grupo": "Marketing y Comunicaciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Diseño Grafico"
+    },
+    {
+        "Grupo": "Marketing y Comunicaciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Edición Web"
+    },
+    {
+        "Grupo": "Marketing y Comunicaciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Evento Corporativo"
+    },
+    {
+        "Grupo": "Marketing y Comunicaciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Externalización Audiovisual de Obra"
+    },
+    {
+        "Grupo": "Marketing y Comunicaciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Firma de Correo Corporativo"
+    },
+    {
+        "Grupo": "Marketing y Comunicaciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Fotografia"
+    },
+    {
+        "Grupo": "Marketing y Comunicaciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Gráfica Portal Flesan y Pantallas"
+    },
+    {
+        "Grupo": "Marketing y Comunicaciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Logo Campaña/Evento/App"
+    },
+    {
+        "Grupo": "Marketing y Comunicaciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Merchandising"
+    },
+    {
+        "Grupo": "Marketing y Comunicaciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Otros"
+    },
+    {
+        "Grupo": "Marketing y Comunicaciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Presentación Comercial"
+    },
+    {
+        "Grupo": "Marketing y Comunicaciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Revisión Formato (Presentación y Documento)"
+    },
+    {
+        "Grupo": "Marketing y Comunicaciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Stand"
+    },
+    {
+        "Grupo": "Marketing y Comunicaciones",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Video corporativo"
+    },
+    {
+        "Grupo": "Riesgos & Cumplimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Capacitaciones asociadas a la Ética"
+    },
+    {
+        "Grupo": "Riesgos & Cumplimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Capacitaciones asociadas a prevención de Lavado de Activos/Financiamiento del Terrorismo (LAFT)"
+    },
+    {
+        "Grupo": "Riesgos & Cumplimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Capacitaciones asociadas al Canal de Denuncias"
+    },
+    {
+        "Grupo": "Riesgos & Cumplimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Capacitaciones asociadas al Sistema de Gestión de Prevención de Delitos (SGPD-Ley 30424)"
+    },
+    {
+        "Grupo": "Riesgos & Cumplimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Consultas asociadas a Riesgo Operacional"
+    },
+    {
+        "Grupo": "Riesgos & Cumplimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Consultas asociadas a Riesgo Reputacional"
+    },
+    {
+        "Grupo": "Riesgos & Cumplimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Consultas asociadas a Riesgo de Incumplimiento Normativo"
+    },
+    {
+        "Grupo": "Riesgos & Cumplimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Consultas asociadas a Riesgo de LAFT"
+    },
+    {
+        "Grupo": "Riesgos & Cumplimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Consultas asociadas a buenas prácticas"
+    },
+    {
+        "Grupo": "Riesgos & Cumplimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Consultas asociadas al Canal de Denuncias"
+    },
+    {
+        "Grupo": "Riesgos & Cumplimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Consultas asociadas al Código de Ética"
+    },
+    {
+        "Grupo": "Riesgos & Cumplimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Consultas asociadas al SGPD"
+    },
+    {
+        "Grupo": "Riesgos & Cumplimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Debida Diligencia de potenciales clientes"
+    },
+    {
+        "Grupo": "Riesgos & Cumplimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Debida Diligencia de potenciales colaboradores"
+    },
+    {
+        "Grupo": "Riesgos & Cumplimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Debida Diligencia de potenciales proveedores"
+    },
+    {
+        "Grupo": "Riesgos & Cumplimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Llenar formularios y entrega de sustento al Clientes (Sist. Prevención de delitos)"
+    },
+    {
+        "Grupo": "Riesgos & Cumplimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Responder cuestionarios de compliance en el marco de homologaciones - licitaciones"
+    },
+    {
+        "Grupo": "Riesgos & Cumplimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Revisión preventiva a de potenciales proveedores"
+    },
+    {
+        "Grupo": "Riesgos & Cumplimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Revisión preventiva de potenciales clientes"
+    },
+    {
+        "Grupo": "Riesgos & Cumplimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Revisión preventiva de potenciales colaboradores"
+    },
+    {
+        "Grupo": "Riesgos & Cumplimiento",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Revisión preventiva de potenciales socios de negocios:consorcios/alianzas"
+    },
+    {
+        "Grupo": "Sistema Integrado de Gestión - SIG",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de capacitaciones del Sistema de Gestión de Seguridad y Salud Ocupacional (SGSSO)"
+    },
+    {
+        "Grupo": "Sistema Integrado de Gestión - SIG",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Consultas asociadas a las No Conformidades"
+    },
+    {
+        "Grupo": "Sistema Integrado de Gestión - SIG",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Consultas asociadas a riesgos u oportunidades de mejora identificadas"
+    },
+    {
+        "Grupo": "Sistema Integrado de Gestión - SIG",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Consultas asociadas al Manual del Sistema Integrado de Gestion"
+    },
+    {
+        "Grupo": "Sistema Integrado de Gestión - SIG",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Consultas de actualización de documentos"
+    },
+    {
+        "Grupo": "Sistema Integrado de Gestión - SIG",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Consultas de interpretacion de las normas ISO"
+    },
+    {
+        "Grupo": "Sistema Integrado de Gestión - SIG",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Implementacion de sistemas de gestion"
+    },
+    {
+        "Grupo": "Sistema Integrado de Gestión - SIG",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Responder cuestionarios de homologaciones"
+    },
+    {
+        "Grupo": "Sistema Integrado de Gestión - SIG",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de acompañamiento en procesos alineados SIG"
+    },
+    {
+        "Grupo": "Sistema Integrado de Gestión - SIG",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de auditorias a proyectos"
+    },
+    {
+        "Grupo": "Sistema Integrado de Gestión - SIG",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de capacitaciones del Sistema de Gestión Ambiental (SGA)"
+    },
+    {
+        "Grupo": "Sistema Integrado de Gestión - SIG",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de capacitaciones del Sistema de Gestión de Calidad (SGC)"
+    },
+    {
+        "Grupo": "Sistema Integrado de Gestión - SIG",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de inducciones especificas"
+    },
+    {
+        "Grupo": "Sistema Integrado de Gestión - SIG",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de información documentada (procedimientos, formatos, manuales,"
+    },
+    {
+        "Grupo": "Sistema Integrado de Gestión - SIG",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de inspecciones inopinadas (no planificadas)"
+    },
+    {
+        "Grupo": "Sistema Integrado de Gestión - SIG",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de inspecciones planificadas"
+    },
+    {
+        "Grupo": "Sistema Integrado de Gestión - SIG",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de publicación de documentos (procedimientos, formatos, manuales, políticas, entre otros)"
+    },
+    {
+        "Grupo": "Sistema Integrado de Gestión - SIG",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de seguimiento en el cierre de No Conformidades (NC) y salida No conforme (NC)"
+    },
+    {
+        "Grupo": "Sistema Integrado de Gestión - SIG",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de charlas"
+    },
+    {
+        "Grupo": "Tesorería y/o Cobranzas",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Apertura tarjeta TEBCA"
+    },
+    {
+        "Grupo": "Tesorería y/o Cobranzas",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Cierre de tarjeta TEBCA"
+    },
+    {
+        "Grupo": "Tesorería y/o Cobranzas",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Constancia de pago de Detracción"
+    },
+    {
+        "Grupo": "Tesorería y/o Cobranzas",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Emisión de Cuentas Bancarias del Grupo"
+    },
+    {
+        "Grupo": "Tesorería y/o Cobranzas",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Emisión de cheques de gerencia"
+    },
+    {
+        "Grupo": "Tesorería y/o Cobranzas",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Emisión de cheques en garantía a proveedores"
+    },
+    {
+        "Grupo": "Tesorería y/o Cobranzas",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Reporte de cobranzas recibidas por ceco y/o clientes"
+    },
+    {
+        "Grupo": "Tesorería y/o Cobranzas",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Reporte de detracciones en empresas inmobiliarias"
+    },
+    {
+        "Grupo": "Tesorería y/o Cobranzas",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Reporte de facturación por ceco"
+    },
+    {
+        "Grupo": "Tesorería y/o Cobranzas",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Reporte de fondo de garantía por cobrar cliente."
+    },
+    {
+        "Grupo": "Tesorería y/o Cobranzas",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de comprobante de pago a proveedores"
+    },
+    {
+        "Grupo": "Tesorería y/o Cobranzas",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de constancia de pago beneficio social"
+    },
+    {
+        "Grupo": "Tesorería y/o Cobranzas",
+        "Tipo de ticket": "Requerimiento",
+        "Servicio": "Solicitud de estado de cuenta a proveedores"
+    }
+]

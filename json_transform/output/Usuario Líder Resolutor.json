@@ -1,0 +1,272 @@
+[
+    {
+        "Resolutor": "sbrescia@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Abastecimiento",
+        "Cola de tickets": "Almacén"
+    },
+    {
+        "Resolutor": "sbrescia@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Abastecimiento",
+        "Cola de tickets": "Abastecimiento"
+    },
+    {
+        "Resolutor": "sbrescia@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Abastecimiento",
+        "Cola de tickets": "Atencion a proveedores"
+    },
+    {
+        "Resolutor": "sbrescia@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Abastecimiento",
+        "Cola de tickets": "Administración- Servicios Generales"
+    },
+    {
+        "Resolutor": "sbrescia@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Abastecimiento",
+        "Cola de tickets": "Soporte e Infraestructura"
+    },
+    {
+        "Resolutor": "sbrescia@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Abastecimiento",
+        "Cola de tickets": "Legal"
+    },
+    {
+        "Resolutor": "sbrescia@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Abastecimiento",
+        "Cola de tickets": "Seguros"
+    },
+    {
+        "Resolutor": "sbrescia@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Abastecimiento",
+        "Cola de tickets": "Control Pago / Fondo por Rendir / Mesa Parte"
+    },
+    {
+        "Resolutor": "jhurtado@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Abastecimiento",
+        "Cola de tickets": "Abastecimiento"
+    },
+    {
+        "Resolutor": "jhurtado@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Abastecimiento",
+        "Cola de tickets": "Atencion a proveedores"
+    },
+    {
+        "Resolutor": "oabrigo@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Soporte e Infraestructura",
+        "Cola de tickets": "Soporte e Infraestructura"
+    },
+    {
+        "Resolutor": "mcarrillo@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Legal",
+        "Cola de tickets": "Legal"
+    },
+    {
+        "Resolutor": "mcarrillo@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Legal",
+        "Cola de tickets": "Seguros"
+    },
+    {
+        "Resolutor": "egarcias@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Control Pago / Fondo por Rendir / Mesa Parte",
+        "Cola de tickets": "Control Pago / Fondo por Rendir / Mesa Parte"
+    },
+    {
+        "Resolutor": "rdelgado@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Finanzas",
+        "Cola de tickets": "Finanzas"
+    },
+    {
+        "Resolutor": "mwan@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Tesorería y/o Cobranzas",
+        "Cola de tickets": "Tesorería y/o Cobranzas"
+    },
+    {
+        "Resolutor": "edelgado@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Contabilidad",
+        "Cola de tickets": "GDP - Atracción del Talento y DO"
+    },
+    {
+        "Resolutor": "edelgado@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Contabilidad",
+        "Cola de tickets": "GDP - Calidad de vida"
+    },
+    {
+        "Resolutor": "edelgado@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Contabilidad",
+        "Cola de tickets": "GDP - Talento y Cultura"
+    },
+    {
+        "Resolutor": "edelgado@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Contabilidad",
+        "Cola de tickets": "GDP - Remuneraciones"
+    },
+    {
+        "Resolutor": "edelgado@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Contabilidad",
+        "Cola de tickets": "Contabilidad"
+    },
+    {
+        "Resolutor": "edelgado@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Contabilidad",
+        "Cola de tickets": "Impuestos"
+    },
+    {
+        "Resolutor": "edelgado@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Contabilidad",
+        "Cola de tickets": "CIA - Desarrollo"
+    },
+    {
+        "Resolutor": "edelgado@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Contabilidad",
+        "Cola de tickets": "CIA - Procesos / IA"
+    },
+    {
+        "Resolutor": "edelgado@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Contabilidad",
+        "Cola de tickets": "Riesgos & Cumplimiento"
+    },
+    {
+        "Resolutor": "ignacio.lara@flesan.cl",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Finanzas",
+        "Cola de tickets": "Finanzas"
+    },
+    {
+        "Resolutor": "ignacio.lara@flesan.cl",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Finanzas",
+        "Cola de tickets": "Tesorería y/o Cobranzas"
+    },
+    {
+        "Resolutor": "ctelenta@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "GDP - Atracción del Talento y DO",
+        "Cola de tickets": "GDP - Atracción del Talento y DO"
+    },
+    {
+        "Resolutor": "ctelenta@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "GDP - Atracción del Talento y DO",
+        "Cola de tickets": "GDP - Calidad de vida"
+    },
+    {
+        "Resolutor": "ctelenta@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "GDP - Atracción del Talento y DO",
+        "Cola de tickets": "GDP - Talento y Cultura"
+    },
+    {
+        "Resolutor": "ctelenta@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "GDP - Atracción del Talento y DO",
+        "Cola de tickets": "GDP - Remuneraciones"
+    },
+    {
+        "Resolutor": "gpacheco@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "GDP - Atracción del Talento y DO",
+        "Cola de tickets": "GDP - Atracción del Talento y DO"
+    },
+    {
+        "Resolutor": "gpacheco@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "GDP - Atracción del Talento y DO",
+        "Cola de tickets": "GDP - Calidad de vida"
+    },
+    {
+        "Resolutor": "gpacheco@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "GDP - Atracción del Talento y DO",
+        "Cola de tickets": "GDP - Talento y Cultura"
+    },
+    {
+        "Resolutor": "gpacheco@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "GDP - Atracción del Talento y DO",
+        "Cola de tickets": "GDP - Remuneraciones"
+    },
+    {
+        "Resolutor": "kcuray@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "GDP - Calidad de vida",
+        "Cola de tickets": "GDP - Calidad de vida"
+    },
+    {
+        "Resolutor": "vcarrasco@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "GDP - Remuneraciones",
+        "Cola de tickets": "GDP - Remuneraciones"
+    },
+    {
+        "Resolutor": "ksullcapuma@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Contabilidad",
+        "Cola de tickets": "Contabilidad"
+    },
+    {
+        "Resolutor": "hostos@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Impuestos",
+        "Cola de tickets": "Impuestos"
+    },
+    {
+        "Resolutor": "jmestanza@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "CIA - Desarrollo",
+        "Cola de tickets": "CIA - Desarrollo"
+    },
+    {
+        "Resolutor": "ctenazoa@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "CIA - Procesos / IA",
+        "Cola de tickets": "CIA - Procesos / IA"
+    },
+    {
+        "Resolutor": "SFERNANDEZ@DVC.COM.PE",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Sistema Integrado de Gestión - SIG",
+        "Cola de tickets": "Sistema Integrado de Gestión - SIG"
+    },
+    {
+        "Resolutor": "Marias@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Sistema Integrado de Gestión - SIG",
+        "Cola de tickets": "Sistema Integrado de Gestión - SIG"
+    },
+    {
+        "Resolutor": "DZLATAR@DVC.COM.PE",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Marketing y Comunicaciones",
+        "Cola de tickets": "Marketing y Comunicaciones"
+    },
+    {
+        "Resolutor": "avargas@flesan.com.pe",
+        "Rol": "Lider Resolutor",
+        "Grupo": "Marketing y Comunicaciones",
+        "Cola de tickets": "Marketing y Comunicaciones"
+    }
+]

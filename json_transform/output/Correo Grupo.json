@@ -1,0 +1,86 @@
+[
+    {
+        "Grupo": "Legal",
+        "Correo": "legal@flesan.com.pe"
+    },
+    {
+        "Grupo": "Seguros",
+        "Correo": "seguros@flesan.com.pe"
+    },
+    {
+        "Grupo": "Finanzas",
+        "Correo": "finanzas@flesan.com.pe"
+    },
+    {
+        "Grupo": "Almacén",
+        "Correo": "log_alm@flesan.com.pe"
+    },
+    {
+        "Grupo": "Abastecimiento",
+        "Correo": "abast@flesan.com.pe"
+    },
+    {
+        "Grupo": "Atencion a proveedores",
+        "Correo": "atencionproveedores@dvc.com.pe / atencionproveedores@flesan.com.pe"
+    },
+    {
+        "Grupo": "Administración- Servicios Generales",
+        "Correo": "administracion@flesan.com.pe"
+    },
+    {
+        "Grupo": "Contabilidad",
+        "Correo": "contabilidad@flesan.com.pe"
+    },
+    {
+        "Grupo": "Control Pago / Fondo por Rendir / Mesa Parte",
+        "Correo": "controldepagos@flesan.com.pe"
+    },
+    {
+        "Grupo": "GDP - Atracción del Talento y DO",
+        "Correo": "personas@flesan.com.pe"
+    },
+    {
+        "Grupo": "GDP - Calidad de vida",
+        "Correo": "calidaddevida@flesan.com.pe"
+    },
+    {
+        "Grupo": "GDP - Remuneraciones",
+        "Correo": "remuneraciones@flesan.com.pe"
+    },
+    {
+        "Grupo": "GDP - Talento y Cultura",
+        "Correo": "personas@flesan.com.pe"
+    },
+    {
+        "Grupo": "CIA - Desarrollo",
+        "Correo": "desarrollo@flesan.com.pe"
+    },
+    {
+        "Grupo": "CIA - Procesos / IA",
+        "Correo": "pti@flesan.com.pe"
+    },
+    {
+        "Grupo": "Impuestos",
+        "Correo": "impuestos@flesan.com.pe"
+    },
+    {
+        "Grupo": "Soporte e Infraestructura",
+        "Correo": "sit@flesan.com.pe"
+    },
+    {
+        "Grupo": "Marketing y Comunicaciones",
+        "Correo": "marketing@flesan.com.pe"
+    },
+    {
+        "Grupo": "Riesgos & Cumplimiento",
+        "Correo": "grc@flesan.com.pe"
+    },
+    {
+        "Grupo": "Sistema Integrado de Gestión - SIG",
+        "Correo": "sig@flesan.com.pe"
+    },
+    {
+        "Grupo": "Tesorería y/o Cobranzas",
+        "Correo": "tesoreria@flesan.com.pe"
+    }
+]

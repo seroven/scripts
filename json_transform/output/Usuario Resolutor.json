@@ -1,0 +1,350 @@
+[
+    {
+        "Correo": "cpulido@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Almacén",
+        "Cola de tickets": "Almacén"
+    },
+    {
+        "Correo": "wmallqui@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Almacén",
+        "Cola de tickets": "Almacén"
+    },
+    {
+        "Correo": "flavio.castro@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Almacén",
+        "Cola de tickets": "Almacén"
+    },
+    {
+        "Correo": "sramos@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Abastecimiento",
+        "Cola de tickets": "Abastecimiento"
+    },
+    {
+        "Correo": "projas@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Abastecimiento",
+        "Cola de tickets": "Abastecimiento"
+    },
+    {
+        "Correo": "kaguayo@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Abastecimiento",
+        "Cola de tickets": "Abastecimiento"
+    },
+    {
+        "Correo": "nruiz@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Abastecimiento",
+        "Cola de tickets": "Abastecimiento"
+    },
+    {
+        "Correo": "bremigio@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Abastecimiento",
+        "Cola de tickets": "Abastecimiento"
+    },
+    {
+        "Correo": "sgarcia@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Abastecimiento",
+        "Cola de tickets": "Abastecimiento"
+    },
+    {
+        "Correo": "atencionproveedores@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Atencion a proveedores",
+        "Cola de tickets": "Atencion a proveedores"
+    },
+    {
+        "Correo": "ogavidia@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Administración- Servicios Generales",
+        "Cola de tickets": "Administración- Servicios Generales"
+    },
+    {
+        "Correo": "rsalluca@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Administración- Servicios Generales",
+        "Cola de tickets": "Administración- Servicios Generales"
+    },
+    {
+        "Correo": "lpadro@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Soporte e Infraestructura",
+        "Cola de tickets": "Soporte e Infraestructura"
+    },
+    {
+        "Correo": "preyna@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Soporte e Infraestructura",
+        "Cola de tickets": "Soporte e Infraestructura"
+    },
+    {
+        "Correo": "wzevallos@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Legal",
+        "Cola de tickets": "Legal"
+    },
+    {
+        "Correo": "ybottoni@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Legal",
+        "Cola de tickets": "Legal"
+    },
+    {
+        "Correo": "kzuniga@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Legal",
+        "Cola de tickets": "Legal"
+    },
+    {
+        "Correo": "sflores@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Legal",
+        "Cola de tickets": "Legal"
+    },
+    {
+        "Correo": "rocio.lazaro@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Legal",
+        "Cola de tickets": "Legal"
+    },
+    {
+        "Correo": "gianmarco.garcia@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Legal",
+        "Cola de tickets": "Legal"
+    },
+    {
+        "Correo": "lruiz@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Seguros",
+        "Cola de tickets": "Seguros"
+    },
+    {
+        "Correo": "gosorio@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Control Pago / Fondo por Rendir / Mesa Parte",
+        "Cola de tickets": "Control Pago / Fondo por Rendir / Mesa Parte"
+    },
+    {
+        "Correo": "dsanchez@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Control Pago / Fondo por Rendir / Mesa Parte",
+        "Cola de tickets": "Control Pago / Fondo por Rendir / Mesa Parte"
+    },
+    {
+        "Correo": "ddelsolar@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Control Pago / Fondo por Rendir / Mesa Parte",
+        "Cola de tickets": "Control Pago / Fondo por Rendir / Mesa Parte"
+    },
+    {
+        "Correo": "scabellos@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Control Pago / Fondo por Rendir / Mesa Parte",
+        "Cola de tickets": "Control Pago / Fondo por Rendir / Mesa Parte"
+    },
+    {
+        "Correo": "sarana@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Control Pago / Fondo por Rendir / Mesa Parte",
+        "Cola de tickets": "Control Pago / Fondo por Rendir / Mesa Parte"
+    },
+    {
+        "Correo": "KROJAS@FLESAN.COM.PE",
+        "Rol": "Resolutor",
+        "Grupo": "Finanzas",
+        "Cola de tickets": "Finanzas"
+    },
+    {
+        "Correo": "pbarrera@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Tesorería y/o Cobranzas",
+        "Cola de tickets": "Tesorería y/o Cobranzas"
+    },
+    {
+        "Correo": "uraygada@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Tesorería y/o Cobranzas",
+        "Cola de tickets": "Tesorería y/o Cobranzas"
+    },
+    {
+        "Correo": "llivaque@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "GDP - Atracción del Talento y DO",
+        "Cola de tickets": "GDP - Atracción del Talento y DO"
+    },
+    {
+        "Correo": "kramirez@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "GDP - Atracción del Talento y DO",
+        "Cola de tickets": "GDP - Atracción del Talento y DO"
+    },
+    {
+        "Correo": "induccion@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "GDP - Atracción del Talento y DO",
+        "Cola de tickets": "GDP - Atracción del Talento y DO"
+    },
+    {
+        "Correo": "jcarlos@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "GDP - Calidad de vida",
+        "Cola de tickets": "GDP - Calidad de vida"
+    },
+    {
+        "Correo": "marroyo@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "GDP - Talento y Cultura",
+        "Cola de tickets": "GDP - Talento y Cultura"
+    },
+    {
+        "Correo": "jmego@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "GDP - Talento y Cultura",
+        "Cola de tickets": "GDP - Talento y Cultura"
+    },
+    {
+        "Correo": "jsantamaria@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "GDP - Remuneraciones",
+        "Cola de tickets": "GDP - Remuneraciones"
+    },
+    {
+        "Correo": "victor.chero@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "GDP - Remuneraciones",
+        "Cola de tickets": "GDP - Remuneraciones"
+    },
+    {
+        "Correo": "mmarin@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Contabilidad",
+        "Cola de tickets": "Contabilidad"
+    },
+    {
+        "Correo": "mberrios@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Contabilidad",
+        "Cola de tickets": "Contabilidad"
+    },
+    {
+        "Correo": "laltamirano@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Contabilidad",
+        "Cola de tickets": "Contabilidad"
+    },
+    {
+        "Correo": "dchuquihuaccha@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Contabilidad",
+        "Cola de tickets": "Contabilidad"
+    },
+    {
+        "Correo": "alisson.alagon@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Contabilidad",
+        "Cola de tickets": "Contabilidad"
+    },
+    {
+        "Correo": "jbarros@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Impuestos",
+        "Cola de tickets": "Impuestos"
+    },
+    {
+        "Correo": "elizabeth.chavez@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Impuestos",
+        "Cola de tickets": "Impuestos"
+    },
+    {
+        "Correo": "carlos.carreon@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Impuestos",
+        "Cola de tickets": "Impuestos"
+    },
+    {
+        "Correo": "mmatamoros@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "CIA - Desarrollo",
+        "Cola de tickets": "CIA - Desarrollo"
+    },
+    {
+        "Correo": "serodriguez@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "CIA - Desarrollo",
+        "Cola de tickets": "CIA - Desarrollo"
+    },
+    {
+        "Correo": "xquispe@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "CIA - Desarrollo",
+        "Cola de tickets": "CIA - Desarrollo"
+    },
+    {
+        "Correo": "sreynaga@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "CIA - Procesos / IA",
+        "Cola de tickets": "CIA - Procesos / IA"
+    },
+    {
+        "Correo": "apilco@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "CIA - Procesos / IA",
+        "Cola de tickets": "CIA - Procesos / IA"
+    },
+    {
+        "Correo": "kayme@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "CIA - Procesos / IA",
+        "Cola de tickets": "CIA - Procesos / IA"
+    },
+    {
+        "Correo": "kevin.campos@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "CIA - Procesos / IA",
+        "Cola de tickets": "CIA - Procesos / IA"
+    },
+    {
+        "Correo": "francescolli.anticona@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "CIA - Procesos / IA",
+        "Cola de tickets": "CIA - Procesos / IA"
+    },
+    {
+        "Correo": "raul.moreno@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "CIA - Procesos / IA",
+        "Cola de tickets": "CIA - Procesos / IA"
+    },
+    {
+        "Correo": "jflores@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Riesgos & Cumplimiento",
+        "Cola de tickets": "Riesgos & Cumplimiento"
+    },
+    {
+        "Correo": "ezegarra@dvc.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Riesgos & Cumplimiento",
+        "Cola de tickets": "Riesgos & Cumplimiento"
+    },
+    {
+        "Correo": "gsoria@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Sistema Integrado de Gestión - SIG",
+        "Cola de tickets": "Sistema Integrado de Gestión - SIG"
+    },
+    {
+        "Correo": "renato.anicama@flesan.com.pe",
+        "Rol": "Resolutor",
+        "Grupo": "Marketing y Comunicaciones",
+        "Cola de tickets": "Marketing y Comunicaciones"
+    }
+]
